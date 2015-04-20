@@ -1,0 +1,5 @@
+body { height: 11500px; overflow-x: hidden; -ms-overflow-x: hidden;}
+#spaceman { width: 300px; position: fixed; margin-top: 20px; margin-left: 20px;}
+#window { position: fixed; top: 0px; left: 0px;}
+#space { position: fixed; top: -500px; left: -450px;}
+.flying-object { position: absolute; cursor: pointer;}
